@@ -1,0 +1,51 @@
+   <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What happens if a scheduled service day falls on a major holiday?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We plan for it! For major holidays like Christmas or Thanksgiving, we will service your unit either the day before or the day after. We will always communicate this schedule change to you in advance.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What happens if I book a unit for spring and the ground is too wet?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">This is why we recommend a site check! We are experts at finding the most stable location on your property. If the ground is exceptionally saturated, we may need to place the unit on a driveway or other hard surface.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How much space do you need to deliver a restroom trailer?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our luxury restroom trailer rental units require a wide, clear path (at least 10-12 feet wide) with no low-hanging obstacles and a large, level area for final placement.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer long-term rentals for remote sites?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we can create custom, long-term rental and service plans (where accessible) for ongoing projects in remote areas.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How many porta potties can you provide for a large-scale disaster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We maintain a large and diverse fleet capable of servicing major events and emergencies. We can deploy hundreds of units when required.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do I know for sure if my unit was serviced?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We believe in accountability. Our technicians leave a signed and dated sticker inside the unit after every service. If you’re ever unsure, you can call our office, and we can confirm the exact time of service via our truck’s GPS records.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+   
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
